@@ -28,15 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Game]](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/game.png)
+![Game](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/game.png)
 
-![Win-Screen]](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/win.png)
+![Win-Screen](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/win.png)
 
-![Lose-Screen]](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/lose.png)
+![Lose-Screen](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/lose.png)
 
-![Draw-Screen]](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/draw.png)
+![Draw-Screen](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/draw.png)
 
-![Rules-Screen]](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/rulse.png)
+![Rules-Screen](https://github.com/f0rest96/rock-paper-scissors-main/blob/master/screenshots/rulse.png)
 
 ### Links
 
