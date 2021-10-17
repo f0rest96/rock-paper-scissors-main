@@ -28,11 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Game]](./screenshots/game.png)
-![Win-Screen]](/screenshots/win.png)
-![Lose-Screen]](/screenshots/lose.png)
-![Draw-Screen]](/screenshots/draw.png)
-![Rules-Screen]](./screenshots/rulse.png)
+![Game]](screenshots/game.png)
+
+![Win-Screen]](screenshots/win.png)
+
+![Lose-Screen]](screenshots/lose.png)
+
+![Draw-Screen]](screenshots/draw.png)
+
+![Rules-Screen]](screenshots/rulse.png)
 
 ### Links
 
@@ -67,5 +71,5 @@ In the future i will attempt on adding two more modules and restyle the whole si
 
 - Website - [Still WIP](#)
 - Frontend Mentor - [@f0rest96](https://www.frontendmentor.io/profile/f0rest96)
-- Twitter - [@f0rest96](https://github.com/f0rest96)
+- Github - [@f0rest96](https://github.com/f0rest96)
 
