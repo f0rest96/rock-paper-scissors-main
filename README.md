@@ -29,9 +29,9 @@ Users should be able to:
 ### Screenshot
 
 ![Game]](./screenshots/game.png)
-![Win-Screen]](./screenshots/win.png)
-![Lose-Screen]](./screenshots/lose.png)
-![Draw-Screen]](./screenshots/draw.png)
+![Win-Screen]](/screenshots/win.png)
+![Lose-Screen]](/screenshots/lose.png)
+![Draw-Screen]](/screenshots/draw.png)
 ![Rules-Screen]](./screenshots/rulse.png)
 
 ### Links
